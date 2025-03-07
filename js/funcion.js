@@ -32,9 +32,9 @@ function calcular() {
         <p>Consum de consumibles durant el curs: ${consumConsumiblesCurs.toFixed(2)} unitats</p>
         <p>Consum de productes de neteja pròxim any: ${consumNetejaAny.toFixed(2)} litres</p>
         <p>Consum de productes de neteja durant el curs: ${consumNetejaCurs.toFixed(2)} litres</p>
-        <p>Autoconsumo (energia generada consumida directamente): ${autoconsumo.toFixed(2)} kWh</p>
-        <p>Porcentaje de autoconsumo: ${porcentajeAutoconsumo.toFixed(2)}%</p>
-        <p>Porcentaje de reducción del consumo gracias a las placas solares: ${porcentajeReduccion.toFixed(2)}%</p>
+        <p>Autoconsum (energia generada consumida directament): ${autoconsumo.toFixed(2)} kWh</p>
+        <p>Porcentatge d'autoconsum: ${porcentajeAutoconsumo.toFixed(2)}%</p>
+        <p>Porcentatge de reducció del consum gràcies a les plaques solars: ${porcentajeReduccion.toFixed(2)}%</p>
     `;
 }
 
